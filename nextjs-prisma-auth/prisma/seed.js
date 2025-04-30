@@ -29,6 +29,8 @@ const userData = {
       { task: "Walk the Dog" },
       { task: "Attend Meeting" },
       { task: "Finish Homework" },
+      { task: "wHat?"},
+      { task: "yaWA"},
       { task: "Practice Coding" },
       { task: "Learn a New Language" },
       { task: "Update Resume" },
