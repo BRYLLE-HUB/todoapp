@@ -69,6 +69,7 @@ const userData = {
       { task: "Write Poetry" },
       { task: "Learn Photography" },
       { task: "Create a Vision Board" },
+      { task: "Plan a Road Trip" },
 
     ],
   },
